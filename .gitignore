@@ -1,0 +1,43 @@
+# Node.js / NPM
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build
+build/
+dist/
+*.log
+*.log.*
+*.min.*
+*.map
+
+# Dependencies
+/.pnp
+.pnp.js
+
+# Editor-related
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# macOS
+.DS_Store
+
+# Others
+*.cache
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+
+# Local development files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
